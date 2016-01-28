@@ -18,7 +18,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [Font Awesome](http://fontawesome.io/) Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 - [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) 
 - [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) A custom collection of 283 icons.
-- [Glyphicons.com](http://glyphicons.com/) is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
+- [Glyphicons](http://glyphicons.com/) is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
 - [icoMoon](https://icomoon.io) 490+ free Icons
 - [Iconic](https://useiconic.com/open/) An open source icon set with 223 marks in SVG, webfont and raster formats
 - [iconSweets](http://www.iconsweets.com/)
