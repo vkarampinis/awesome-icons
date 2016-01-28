@@ -22,9 +22,11 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [icoMoon](https://icomoon.io) 490+ free Icons
 - [Iconic](https://useiconic.com/open/) An open source icon set with 223 marks in SVG, webfont and raster formats
 - [iconSweets](http://www.iconsweets.com/)
+- [Marka](http://fian.my.id/marka/) 36 Beautiful transformable icons.
+- [Octicons](https://octicons.github.com/) Github's icons
 - [Raphaël](http://icons.marekventur.com/)
 - [Typicons](http://typicons.com/) 336 pixel perfect, all-purpose vector icons
-- [Octicons](https://octicons.github.com/) Github's icons
+
 
 ### Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) All 50 states plus D.C. and a wee continental U.S. map
