@@ -32,7 +32,10 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [StateFace](http://propublica.github.io/stateface/) All 50 states plus D.C. and a wee continental U.S. map
 
 ### Social
+- [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 - [Rondo](http://www.tajfa.com/projects/rondo/) Social icon font.
+- [Social Share Kit](http://socialsharekit.com/) Social network icons, share buttons, share count, floating/sticky button bar and popups.
+- [Stackicons](http://stackicons.com/) includes over 60 up-to-date icons for modern social brands.
 
 ### Weather
 - [Forecast Font](http://forecastfont.iconvau.lt/) A web-font for creating multi-layered weather icons
