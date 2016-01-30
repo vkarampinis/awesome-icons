@@ -31,6 +31,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
 ### Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) All 50 states plus D.C. and a wee continental U.S. map
+- [flag-icon-css](http://lipis.github.io/flag-icon-css/) A collection of all country flags in SVG — plus the CSS for easier integration.
 
 ### Social
 - [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
