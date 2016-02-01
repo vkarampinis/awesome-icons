@@ -27,7 +27,8 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [Octicons](https://octicons.github.com/) Github's icons
 - [Raphaël](http://icons.marekventur.com/)
 - [Typicons](http://typicons.com/) 336 pixel perfect, all-purpose vector icons
-- [Google Material Design Icons, by Google](https://design.google.com/icons/) Official Google Material Design Icons 
+- [Google Material Design Icons, by Google](https://design.google.com/icons/) Official Google Material Design Icons
+- [pictonic](https://pictonic.co) Over 260+ free icons
 
 ### Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) All 50 states plus D.C. and a wee continental U.S. map
