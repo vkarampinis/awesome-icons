@@ -41,6 +41,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [Stackicons](http://stackicons.com/) includes over 60 up-to-date icons for modern social brands.
 
 ### Weather
+- [Climacons](http://adamwhitcroft.com/climacons/) is a lovingly crafted collection of weather icons available in PSD, EPS, Fireworks PNG and SVG formats.
 - [Forecast Font](http://forecastfont.iconvau.lt/) A web-font for creating multi-layered weather icons
 - [Meteocons](http://www.alessioatzeni.com/meteocons/) 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
 - [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) a complete set of 60 weather icons inspired by iOS 7.
