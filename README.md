@@ -39,6 +39,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [Rondo](http://www.tajfa.com/projects/rondo/) Social icon font.
 - [Social Share Kit](http://socialsharekit.com/) Social network icons, share buttons, share count, floating/sticky button bar and popups.
 - [Stackicons](http://stackicons.com/) includes over 60 up-to-date icons for modern social brands.
+- [Zocial](https://github.com/adamstac/zocial) Sass and Compass CSS3 social buttons framework
 
 ### Weather
 - [Climacons](http://adamwhitcroft.com/climacons/) is a lovingly crafted collection of weather icons available in PSD, EPS, Fireworks PNG and SVG formats.
