@@ -4,6 +4,8 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
 ---
