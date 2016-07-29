@@ -12,6 +12,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 ### Archive of Icons
 - [iconmonstr](http://iconmonstr.com/) Discover over 3000  free simple icons in varius collections.
 - [TheNounProject](https://thenounproject.com/) Search over 150,000 icons designed by creators from arround the world.
+- [svg-icon](https://github.com/leungwensen/svg-icon) An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 
 ### Generic
 - [Batch](http://adamwhitcroft.com/batch/) A lovingly designed and crafted suite of 300+ icons for web and user interface design.
@@ -56,3 +57,4 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
 ### Tools
 - [fontello](http://fontello.com/) Icon fonts generator.
+- [svg-icon](http://leungwensen.github.io/svg-icon/) Select as many SVG icons as you need, and download as an SVG symbols sprite file.
