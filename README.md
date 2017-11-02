@@ -30,7 +30,6 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [Marka](http://fian.my.id/marka/) 36 Beautiful transformable icons.
 - [Octicons](https://octicons.github.com/) Github's icons
 - [Raphaël](http://icons.marekventur.com/)
-- [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) A fantasy themed font and CSS toolkit.
 - [Typicons](http://typicons.com/) 336 pixel perfect, all-purpose vector icons
 - [Google Material Design Icons, by Google](https://design.google.com/icons/) Official Google Material Design Icons
 - [pictonic](https://pictonic.co) Over 260+ free icons
