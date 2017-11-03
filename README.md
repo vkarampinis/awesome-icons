@@ -16,10 +16,11 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
 ### Generic
 - [Batch](http://adamwhitcroft.com/batch/) A lovingly designed and crafted suite of 300+ icons for web and user interface design.
+- [Devicon](https://konpa.github.io/devicon/) a set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Entypo+](http://www.entypo.com/) 411 carefully crafted premium pictograms.
 - [Erler Dingbats Unicode](http://www.ffdingbatsfont.com/)
 - [Font Awesome](http://fontawesome.io/) Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-- [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons) 
+- [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
 - [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) A custom collection of 283 icons.
 - [Glyphicons](http://glyphicons.com/) is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
 - [icoMoon](https://icomoon.io) 490+ free Icons
@@ -29,6 +30,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [Marka](http://fian.my.id/marka/) 36 Beautiful transformable icons.
 - [Octicons](https://octicons.github.com/) Github's icons
 - [Raphaël](http://icons.marekventur.com/)
+- [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) A fantasy themed font and CSS toolkit.
 - [Typicons](http://typicons.com/) 336 pixel perfect, all-purpose vector icons
 - [Google Material Design Icons, by Google](https://design.google.com/icons/) Official Google Material Design Icons
 - [pictonic](https://pictonic.co) Over 260+ free icons
