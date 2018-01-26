@@ -13,6 +13,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [iconmonstr](http://iconmonstr.com/) Discover over 3000  free simple icons in varius collections.
 - [TheNounProject](https://thenounproject.com/) Search over 150,000 icons designed by creators from arround the world.
 - [svg-icon](https://github.com/leungwensen/svg-icon) An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+- [icons8](https://icons8.com/) 63,900 Free Flat Icons
 
 ### Generic
 - [Batch](http://adamwhitcroft.com/batch/) A lovingly designed and crafted suite of 300+ icons for web and user interface design.
