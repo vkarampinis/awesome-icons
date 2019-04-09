@@ -29,7 +29,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Batch](http://adamwhitcroft.com/batch/) - A lovingly designed and crafted suite of 300+ icons for web and user interface design.
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Entypo+](http://www.entypo.com/) - 411 carefully crafted premium pictograms.
-- [Erler Dingbats Unicode](http://www.ffdingbatsfont.com/)
 - [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 - [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
 - [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
