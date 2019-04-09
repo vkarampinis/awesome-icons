@@ -1,4 +1,4 @@
-# Awesome Web Icons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Web Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
@@ -6,17 +6,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
-#### Please read the [contribution guidelines](contributing.md) before contributing
----
+Please read the [contribution guidelines](contributing.md) before contributing
 
-### Archive of Icons
+## Contents
+
+- [Archive of Icons](#archive-of-icons)
+- [Generic](#generic)
+- [Map / Countries](#map--countries)
+- [Social](#social)
+- [Weather](#weather)
+- [Merchants](#merchants)
+- [Tools](#tools)
+
+## Archive of Icons
 - [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 - [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
 - [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 - [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
-### Generic
+## Generic
 - [Batch](http://adamwhitcroft.com/batch/) - A lovingly designed and crafted suite of 300+ icons for web and user interface design.
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Entypo+](http://www.entypo.com/) - 411 carefully crafted premium pictograms.
@@ -39,28 +48,32 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 - [pictonic](https://pictonic.co) - Over 260+ free icons.
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
-### Map / Countries
+## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
 - [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
-### Social
+## Social
 - [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 - [Rondo](http://www.tajfa.com/projects/rondo/) - Social icon font.
 - [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
 - [Stackicons](http://stackicons.com/) - Includes over 60 up-to-date icons for modern social brands.
 - [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
-### Weather
+## Weather
 - [Climacons](http://adamwhitcroft.com/climacons/) - Is a lovingly crafted collection of weather icons available in PSD, EPS, Fireworks PNG and SVG formats.
 - [Forecast Font](http://forecastfont.iconvau.lt/) - A web-font for creating multi-layered weather icons.
 - [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
 - [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
 
-### Merchants
+## Merchants
 - [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
 - [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
-### Tools
+## Tools
 - [fontello](http://fontello.com/) - Icon fonts generator.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
