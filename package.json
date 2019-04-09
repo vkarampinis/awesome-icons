@@ -1,0 +1,23 @@
+{
+  "name": "awesome-icons",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Web (font, svg, whatever) Icons.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkarampinis/awesome-icons.git"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/vkarampinis/awesome-icons/issues"
+  },
+  "homepage": "https://github.com/vkarampinis/awesome-icons#readme"
+}

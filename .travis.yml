@@ -1,10 +1,3 @@
-language: ruby
-
-rvm:
-  - 2.2
-
-before_script:
-  - gem install awesome_bot
-
-script:
-  - awesome_bot README.md --allow-redirect --white-list github.com/sindresorhus/awesome,pictonic,ffdingbatsfont
+language: node_js
+node_js:
+  - 'node'
