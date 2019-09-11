@@ -54,14 +54,13 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Social
 - [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
-- [Rondo](http://www.tajfa.com/projects/rondo/) - Social icon font.
 - [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
 - [Stackicons](http://stackicons.com/) - Includes over 60 up-to-date icons for modern social brands.
 - [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ## Weather
 - [Climacons](http://adamwhitcroft.com/climacons/) - Is a lovingly crafted collection of weather icons available in PSD, EPS, Fireworks PNG and SVG formats.
-- [Forecast Font](http://forecastfont.iconvau.lt/) - A web-font for creating multi-layered weather icons.
+- [Forecast Font](https://webdesignbestfirm.com/forecastfont.html) - A web-font for creating multi-layered weather icons.
 - [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
 - [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
