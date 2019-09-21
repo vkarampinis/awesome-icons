@@ -46,6 +46,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Typicons](http://typicons.com/) - 336 pixel perfect, all-purpose vector icons.
 - [Google Material Design Icons, by Google](https://design.google.com/icons/) - Official Google Material Design Icons.
 - [pictonic](https://pictonic.co) - Over 260+ free icons.
+- [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
 ## Map / Countries
@@ -72,6 +73,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 ## Tools
 - [fontello](http://fontello.com/) - Icon fonts generator.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
+- [svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## License
 
