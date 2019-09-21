@@ -46,6 +46,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Typicons](http://typicons.com/) - 336 pixel perfect, all-purpose vector icons.
 - [Google Material Design Icons, by Google](https://design.google.com/icons/) - Official Google Material Design Icons.
 - [pictonic](https://pictonic.co) - Over 260+ free icons.
+- [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
 ## Map / Countries
