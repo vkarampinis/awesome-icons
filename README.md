@@ -37,6 +37,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Govicons](http://govicons.io/) - Gov Icons is a font and CSS toolkit with 115 government themed icons.
 - [icoMoon](https://icomoon.io) - 490+ free Icons.
 - [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
+- [iconmonstr](https://iconmonstr.com/) - Huge collection of icons and font pack.
 - [icons8](https://icons8.com/) - Free icons, photos, UX illustrations, and music for your videos.
 - [iconSweets](http://www.iconsweets.com/)
 - [Ionicons](http://ionicons.com/) - The premium icon font for Ionic Framework.
