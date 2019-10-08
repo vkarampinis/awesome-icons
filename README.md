@@ -52,6 +52,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
 ## Map / Countries
+- [Citysets](http://citysets.co.uk/) - A growing collection of free city-based icon sets.
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
 - [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
