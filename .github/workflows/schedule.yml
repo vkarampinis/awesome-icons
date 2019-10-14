@@ -1,6 +1,6 @@
 on:
   schedule:
-  - cron 0 0 * * *
+    - cron: 0 4 * * *
 name: Scheduled Test
 jobs:
   build:
