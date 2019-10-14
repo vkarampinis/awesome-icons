@@ -76,6 +76,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [fontello](http://fontello.com/) - Icon fonts generator.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 - [svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+- [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
 ## License
 
