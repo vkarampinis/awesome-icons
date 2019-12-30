@@ -49,6 +49,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 - [Icofont](https://icofont.com/) - 2100+ free icons to spice up your creative designs.
+- [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
 ## Map / Countries
 - [Citysets](http://citysets.co.uk/) - A growing collection of free city-based icon sets.
