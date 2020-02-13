@@ -26,7 +26,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
 ## Generic
-- [Batch](http://adamwhitcroft.com/batch/) - A lovingly designed and crafted suite of 300+ icons for web and user interface design.
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Entypo+](http://www.entypo.com/) - 411 carefully crafted premium pictograms.
 - [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
@@ -63,7 +62,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ## Weather
-- [Climacons](http://adamwhitcroft.com/climacons/) - Is a lovingly crafted collection of weather icons available in PSD, EPS, Fireworks PNG and SVG formats.
 - [Forecast Font](https://webdesignbestfirm.com/forecastfont.html) - A web-font for creating multi-layered weather icons.
 - [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
 - [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
