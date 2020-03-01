@@ -34,6 +34,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
 - [Glyphicons](http://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
 - [Govicons](http://govicons.io/) - Gov Icons is a font and CSS toolkit with 115 government themed icons.
+- [Heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [icoMoon](https://icomoon.io) - 490+ free Icons.
 - [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
 - [iconSweets](http://www.iconsweets.com/)
