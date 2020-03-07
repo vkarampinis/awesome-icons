@@ -63,7 +63,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ## Weather
-- [Forecast Font](https://webdesignbestfirm.com/forecastfont.html) - A web-font for creating multi-layered weather icons.
 - [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
 - [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
