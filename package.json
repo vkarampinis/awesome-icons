@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "awesome-lint": "*"
+    "awesome-lint": "^0.12.1"
   },
   "scripts": {
     "test": "awesome-lint"
