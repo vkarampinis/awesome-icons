@@ -57,7 +57,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Social
 - [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
-- [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single wieght font.
+- [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
 - [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
 - [Stackicons](http://stackicons.com/) - Includes over 60 up-to-date icons for modern social brands.
 - [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
