@@ -26,6 +26,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
 ## Generic
+- [Simple icons](https://github.com/simple-icons/simple-icons) - Over 1000 Free SVG icons for popular brands
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Entypo+](http://www.entypo.com/) - 411 carefully crafted premium pictograms.
 - [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
