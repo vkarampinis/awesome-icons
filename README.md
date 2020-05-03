@@ -28,7 +28,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 ## Generic
 - [Simple icons](https://github.com/simple-icons/simple-icons) - Over 1000 Free SVG icons for popular brands.
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
-- [Entypo+](http://www.entypo.com/) - 411 carefully crafted premium pictograms.
 - [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
 - [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 - [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
