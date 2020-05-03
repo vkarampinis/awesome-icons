@@ -28,7 +28,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 ## Generic
 - [Simple icons](https://github.com/simple-icons/simple-icons) - Over 1000 Free SVG icons for popular brands.
 - [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
-- [Entypo+](http://www.entypo.com/) - 411 carefully crafted premium pictograms.
 - [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
 - [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 - [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
@@ -38,7 +37,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [icoMoon](https://icomoon.io) - 490+ free Icons.
 - [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
-- [iconSweets](http://www.iconsweets.com/)
+- [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 - [Ionicons](http://ionicons.com/) - The premium icon font for Ionic Framework.
 - [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
 - [Octicons](https://octicons.github.com/) - All GitHub's icons.
