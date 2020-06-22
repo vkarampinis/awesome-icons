@@ -37,6 +37,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [icoMoon](https://icomoon.io) - 490+ free Icons.
 - [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
+<!--lint disable awesome-list-item-->
 - [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 - [Ionicons](http://ionicons.com/) - The premium icon font for Ionic Framework.
 - [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
@@ -51,7 +52,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
 ## Map / Countries
-- [Citysets](http://citysets.co.uk/) - A growing collection of free city-based icon sets.
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
 - [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
