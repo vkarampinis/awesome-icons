@@ -51,7 +51,6 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
 ## Map / Countries
-- [Citysets](http://citysets.co.uk/) - A growing collection of free city-based icon sets.
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
 - [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
