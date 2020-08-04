@@ -50,6 +50,10 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 - [Icofont](https://icofont.com/) - 2100+ free icons to spice up your creative designs.
 - [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
+- [Bootstrap Icons](https://icons.getbootstrap.com/) - Official open source SVG icon library for Bootstrap.
+- [teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons designed to fit in the smallest places.
+- [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
+- [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) - ⭐ Ant Design SVG Icons.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
