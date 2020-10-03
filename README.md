@@ -54,6 +54,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons designed to fit in the smallest places.
 - [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
 - [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) - ⭐ Ant Design SVG Icons.
+- [Boxicons](https://boxicons.com/) - Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
