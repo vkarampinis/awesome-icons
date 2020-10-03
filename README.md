@@ -58,6 +58,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Eva Icons](https://akveo.github.io/eva-icons) - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 - [Jam Icons](https://jam-icons.com/) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
 - [Remix Icon](https://remixicon.com/) - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+- [Themify Icons](https://themify.me/themify-icons) - Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
