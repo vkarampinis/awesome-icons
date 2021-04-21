@@ -61,6 +61,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Themify Icons](https://themify.me/themify-icons) - Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
 - [Pepicons](https://pepicons.com) - Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print ❏
+- [css.gg](https://css.gg/) - Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
