@@ -62,6 +62,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
 - [Pepicons](https://pepicons.com) - Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print ❏
 - [css.gg](https://css.gg/) - Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
+- [Iconic.app](https://iconic.app/) - Free, “do wtf you want with” pixel-perfect SVG icons
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
