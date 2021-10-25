@@ -82,6 +82,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
 
 ## Merchants
+- [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications. 
 - [CMC Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 - [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 - [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
