@@ -24,6 +24,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 - [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
+- [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 
 ## Generic
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
