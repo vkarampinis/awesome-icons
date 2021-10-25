@@ -67,6 +67,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
 - [Material Design Icons](https://github.com/Templarian/MaterialDesign) - 6200+ Material Design Icons from the Community
 - [Evil Icons](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
+- [Lineicons](https://lineicons.com/) - 532 Line Icons for Designers and Developers
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
