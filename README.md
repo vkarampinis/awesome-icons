@@ -25,6 +25,8 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 - [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
+- [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with over 76,000 icons indexed.
+- [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
 
 ## Generic
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
@@ -69,6 +71,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Evil Icons](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
 - [Lineicons](https://lineicons.com/) - 532 Line Icons for Designers and Developers
 - [Line Awesome](https://icons8.com/line-awesome) - Is a free alternative for Font Awesome 5.11.2. It consists of ~1380 flat icons that offer complete coverage of the main Font Awesome icon set
+- [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
