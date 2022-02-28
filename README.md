@@ -73,6 +73,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Line Awesome](https://icons8.com/line-awesome) - Is a free alternative for Font Awesome 5.11.2. It consists of ~1380 flat icons that offer complete coverage of the main Font Awesome icon set
 - [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 - [Icons8 Line Awesome](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+- [Akar Icons](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
