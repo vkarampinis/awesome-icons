@@ -74,6 +74,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 - [Icons8 Line Awesome](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 - [Akar Icons](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+- [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
