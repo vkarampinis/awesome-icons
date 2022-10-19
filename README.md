@@ -27,7 +27,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 - [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with over 76,000 icons indexed.
 - [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
-- [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons
+- [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
 
 ## Generic
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
@@ -76,7 +76,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Icons8 Line Awesome](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 - [Akar Icons](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [Lucide](https://lucide.dev) - A fork of [Feather](https://feathericons.com/) with more than 500 additional icons.
+- [Lucide](https://lucide.dev) - A fork of Feather with more than 500 additional icons.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
