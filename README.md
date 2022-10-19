@@ -75,6 +75,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Icons8 Line Awesome](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 - [Akar Icons](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Lucide](https://lucide.dev) - A fork of [Feather](https://feathericons.com/) with more than 500 additional icons.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
