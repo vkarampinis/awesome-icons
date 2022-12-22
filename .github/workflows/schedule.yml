@@ -7,12 +7,12 @@ jobs:
     name: Test
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    - uses: actions/setup-node@v2-beta
+    - uses: actions/setup-node@v3
       with:
-        node-version: '14'
+        node-version: '18'
         check-latest: true
     - run: npm install
     - run: npm test
