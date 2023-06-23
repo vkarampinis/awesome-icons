@@ -77,6 +77,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Akar Icons](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Lucide](https://lucide.dev) - A fork of Feather Icons with more than 500 additional icons.
+- [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
 
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
