@@ -48,7 +48,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [Octicons](https://octicons.github.com/) - All GitHub's icons.
 - [Raphaël](http://icons.marekventur.com/)
 - [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
-- [Google Material Design Icons, by Google](https://design.google.com/icons/) - Official Google Material Design Icons.
+- [Google Material Design Icons, by Google](https://fonts.google.com/icons) - Official Google Material Design Icons.
 - [pictonic](https://pictonic.co) - Over 260+ free icons.
 - [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
 - [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
