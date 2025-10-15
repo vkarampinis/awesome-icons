@@ -28,7 +28,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with over 76,000 icons indexed.
 - [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
 - [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
-- [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world’s largest open-source libraries. 
+- [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world's largest open-source libraries. 
 
 ## Generic
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
