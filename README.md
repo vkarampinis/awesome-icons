@@ -33,6 +33,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Generic
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
+- [thesvg](https://thesvg.org/) - 5,600+ free SVG icons for brands, AWS, Azure, and GCP. React, Vue, Svelte components, CLI, and CDN.
 - [Devicon](https://devicon.dev) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 - [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
 - [Font Awesome](https://fontawesome.com/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
