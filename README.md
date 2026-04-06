@@ -8,6 +8,7 @@ You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
 Please read the [contribution guidelines](contributing.md) before contributing
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for icon design workflow orchestration, automated UI asset management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Archive of Icons](#archive-of-icons)
