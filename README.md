@@ -22,7 +22,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [iconmonstr](https://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 - [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
 - [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
-- [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
+- [Icons8](https://icons8.com/icons) - 1,500,000+ free icons in over 130 styles including iOS 17 Outlined, Fluency, and Glyph Neue. SVG and PNG.
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 - [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 - [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with over 76,000 icons indexed.
