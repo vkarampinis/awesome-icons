@@ -103,6 +103,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Tools
 - [fontello](https://fontello.com/) - Icon fonts generator.
+- [fontglyph](https://fontglyph.com/) - Converts a library of your SVG and PNG to a web optimized Icon font, entirely in-browser.
 - [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 - [svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 - [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
