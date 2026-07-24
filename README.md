@@ -84,6 +84,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 ## Map / Countries
 - [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
 - [flag-icon-css](https://flagicons.lipis.dev/) - A collection of all country flags in SVG — plus the CSS for easier integration.
+- [GeoIcons](http://geoicons.io/) - Country and region map-outline icons as tree-shakable SVG components for React, Vue, Angular, and vanilla JS.
 
 ## Social
 - [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
