@@ -26,6 +26,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 - [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
 - [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with over 76,000 icons indexed.
+- [IconSearch](https://iconsearch.info/) - Search and compare 355,000+ SVG icons across 229 open-source libraries.
 - [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
 - [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
 - [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world's largest open-source libraries. 
