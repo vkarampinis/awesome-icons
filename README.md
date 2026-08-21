@@ -114,3 +114,4 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [IconKing](https://iconking.net) - Free browser-based Lottie animation viewer, color editor, and .json/.lottie converter. No account required, 100% client-side.
 - [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
 - [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
+- [ArtboardLab AI to SVG](https://artboardlab.com/tools/ai-to-svg/) - Converts Adobe Illustrator .ai artwork to SVG without Illustrator, entirely in the browser.
