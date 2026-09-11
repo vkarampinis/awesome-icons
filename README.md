@@ -31,6 +31,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
 - [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world's largest open-source libraries. 
 - [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
+- [SVGicons](https://svgicons.com/) - Search and browse open-source SVG icon sets for web and application development.
 
 ## Generic
 - [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
