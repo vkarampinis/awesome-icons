@@ -116,3 +116,5 @@ Please read the [contribution guidelines](contributing.md) before contributing
 - [SVG to TGS](https://svgtotgs.com/) - Animates SVG artwork in the browser and exports Telegram-ready TGS files for animated stickers and custom emoji.
 - [FaviconDL](https://favicondl.com/) - Fetch and download any website's favicon by URL, with multiple sizes and a public API.
 - [Modern Favicon Generator](https://favicon.kumardeepak.com/) - Modern favicon generator built around an intuitive interface.
+
+- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, GIF, or WEBP images into a multi-size ICO file locally in your browser.
