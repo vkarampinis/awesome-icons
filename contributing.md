@@ -9,6 +9,7 @@ Ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - If you just created something, wait at least a couple of weeks before submitting.
 - You should of course have read or used the thing you're submitting.
+- Icon sets generated with AI are not accepted. Disclose any use of AI in your pull request.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[name](link) - Description.`
 - Keep descriptions short and simple, but descriptive.
